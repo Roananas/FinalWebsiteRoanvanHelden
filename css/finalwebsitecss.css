@@ -3,16 +3,8 @@
 h1 {color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 55px;  letter-spacing: -1px; line-height: 1; text-align: center; font-family: 'Merriweather', serif;
 	
 }
-h2{ color: #111; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 30px; text-align: center; font-family: 'Merriweather', serif; 
+h2{ color: #111; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 30px; text-align: center; font-family: 'Merriweather', serif; }
 		
-}
-
-h3{
-	
-}
-h4{
-	
-}
 p{ color: #000000; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; 
 font-family: 'Merriweather', serif;	
 }
